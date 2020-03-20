@@ -16,7 +16,17 @@ PrefabInstance:
     - target: {fileID: 2023778399568957010, guid: 137064b8eb2b607489529e0453e48b54,
         type: 3}
       propertyPath: cardType
-      value: secondaryconsumer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2023778399568957010, guid: 137064b8eb2b607489529e0453e48b54,
+        type: 3}
+      propertyPath: costType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2023778399568957010, guid: 137064b8eb2b607489529e0453e48b54,
+        type: 3}
+      propertyPath: costCount
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4119773040199071084, guid: 137064b8eb2b607489529e0453e48b54,
         type: 3}

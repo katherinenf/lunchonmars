@@ -3,13 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+public enum CardType
+{
+    Salad, 
+    Fish, 
+    Shark,
+    Steak,
+    Bacon,
+    Chicken
+}
+
 public class Card : MonoBehaviour
 {
 
-    public string cardType;
+    public CardType cardType;
     public int energyNeeded;
     public int caloriesProvided;
-    public Canvas canvas;
+    public CardType costType;
+    public int costCount;
 
 
 

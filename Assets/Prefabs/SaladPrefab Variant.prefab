@@ -12,6 +12,16 @@ PrefabInstance:
       propertyPath: cardType
       value: producer
       objectReference: {fileID: 0}
+    - target: {fileID: 2023778399568957010, guid: 137064b8eb2b607489529e0453e48b54,
+        type: 3}
+      propertyPath: energyNeeded
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2023778399568957010, guid: 137064b8eb2b607489529e0453e48b54,
+        type: 3}
+      propertyPath: caloriesProvided
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 4119773040199071084, guid: 137064b8eb2b607489529e0453e48b54,
         type: 3}
       propertyPath: m_Name
